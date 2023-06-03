@@ -13,7 +13,7 @@
 * PIPR - https://github.com/LJaremek/PIPR_photo-gallery-generator
 * AISDI - https://github.com/LJaremek/BST-and-AVL-trees
 
-### Ownt projects (a little advenced):
+### Own projects (poorly advenced):
 * Cassava Leaf Disease Classification - https://github.com/LJaremek/CLDC
 * Tweets sentiment - https://github.com/LJaremek/kaggle-twitter-sentiment
 * Python png reader (not finished) - https://github.com/LJaremek/png_python_reader
