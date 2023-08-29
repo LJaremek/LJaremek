@@ -1,0 +1,36 @@
+{
+    "python.linting.flake8Enabled": true,
+    "java.home": "C:\\Users\\Jarem\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-11.0.13.8-hotspot",
+    "java.help.firstView": "gettingStarted",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.rulers": [ 79 ],
+    "redhat.telemetry.enabled": true,
+    "liveshare.connectionMode": "relay",
+    "jupyter.askForKernelRestart": false,
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true,
+        "**/.ammonite": true
+    },
+    "window.zoomLevel": -2,
+    "editor.fontSize": 15.5,
+    "vscode-pets.petType": "fox",
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.petColor": "red",
+    "files.associations": {
+        "*.cc": "cpp"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "haskell.manageHLS": "PATH",
+    "workbench.activityBar.visible": false
+    
+}
