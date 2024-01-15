@@ -15,6 +15,7 @@
 * WMM - https://github.com/LJaremek/WMM
 * WSI - https://github.com/LJaremek/WSI
 * ZPR - https://github.com/LJaremek/ZPR_checkers-cpp-python
+* ZPRP - https://github.com/LJaremek/ZPRP-news-classification/tree/main
 
 ### Own projects (poorly advenced):
 * Cassava Leaf Disease Classification - https://github.com/LJaremek/CLDC
