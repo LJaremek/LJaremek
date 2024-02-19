@@ -1,9 +1,10 @@
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ljaremek&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljaremek&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" />
 
 ### Repositories of master's studies at WUT:
-* 
+* Data Exploration and Visualisation - https://github.com/LJaremek/DataExplorationAndVisualisation-MINI
 
 ### Repositories of engineering studies at WUT:
+* #### Thesis - https://github.com/LJaremek/PreannotationObjects
 * AISDI - https://github.com/LJaremek/BST-and-AVL-trees
 * ARKO - https://github.com/LJaremek/MIPS-histogram-stretching
 * ARKO - https://github.com/LJaremek/Barnsley-fern-in-x86-64-and-C
