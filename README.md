@@ -2,6 +2,7 @@
 
 ### Repositories of master's studies at WUT:
 * Data Exploration and Visualisation - https://github.com/LJaremek/DataExplorationAndVisualisation-MINI
+* Advenced Machine Learning - https://github.com/LJaremek/AdvancedMachineLearning-MINI/tree/main
 
 ### Repositories of engineering studies at WUT:
 * #### Thesis - https://github.com/LJaremek/PreannotationObjects
