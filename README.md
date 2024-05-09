@@ -1,8 +1,9 @@
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ljaremek&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljaremek&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" />
 
 ### Repositories of master's studies at WUT:
-* Advenced Machine Learning - https://github.com/LJaremek/AdvancedMachineLearning-MINI
-* Advenced Machine Learning Project - https://github.com/LJaremek/AdvancedMachineLearningProject-MINI
+* Advenced Machine Learning Labs - https://github.com/LJaremek/AdvancedMachineLearning-MINI
+* Advenced Machine Learning Projects - https://github.com/LJaremek/AdvancedMachineLearningProject-MINI
+* Cloud Computing - https://github.com/LJaremek/CloudComputing-MINI
 * Data Exploration and Visualisation - https://github.com/LJaremek/DataExplorationAndVisualisation-MINI
 * Deep Learning - https://github.com/LJaremek/DeepLearning-MINI
 
