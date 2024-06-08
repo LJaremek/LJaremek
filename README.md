@@ -6,6 +6,8 @@
 * Cloud Computing - https://github.com/LJaremek/CloudComputing-MINI
 * Data Exploration and Visualisation - https://github.com/LJaremek/DataExplorationAndVisualisation-MINI
 * Deep Learning - https://github.com/LJaremek/DeepLearning-MINI
+* Knowledge Representation and Reasoning - https://github.com/mrsalveen/Knowledge-Representation-and-Reasoning
+* Optimization in Data Analysis - https://github.com/LJaremek/OptimizationDataAnalysis-MINI
 
 
 ### Repositories of engineering studies at WUT:
