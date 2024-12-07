@@ -3,9 +3,11 @@
 ### Repositories of master's studies at WUT:
 * Advenced Machine Learning Labs - https://github.com/LJaremek/AdvancedMachineLearning-MINI
 * Advenced Machine Learning Projects - https://github.com/LJaremek/AdvancedMachineLearningProject-MINI
+* Big Data Analytics - https://github.com/LJaremek/BigDataAnalytics-MINI
 * Cloud Computing - https://github.com/LJaremek/CloudComputing-MINI
 * Data Exploration and Visualisation - https://github.com/LJaremek/DataExplorationAndVisualisation-MINI
 * Deep Learning - https://github.com/LJaremek/DeepLearning-MINI
+* Knowledge Graphs - https://github.com/REKYAR/knowledge-graphs
 * Knowledge Representation and Reasoning - https://github.com/mrsalveen/Knowledge-Representation-and-Reasoning
 * Optimization in Data Analysis - https://github.com/LJaremek/OptimizationDataAnalysis-MINI
 
@@ -31,9 +33,4 @@
 ### Own projects (poorly advenced):
 * Cassava Leaf Disease Classification - https://github.com/LJaremek/CLDC
 * Tweets sentiment - https://github.com/LJaremek/kaggle-twitter-sentiment
-* Python png reader (not finished) - https://github.com/LJaremek/png_python_reader
-* MultiNotepad (not finished) - https://github.com/LJaremek/MultiNotepad
 
-### Own projects (old, not advanced):
-* Puzzle game - https://github.com/LJaremek/PuzzleGame
-* Maze game - https://github.com/LJaremek/GraLabirynt
